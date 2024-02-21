@@ -1,0 +1,11 @@
+1. Jalankan File Dashboard.py
+
+2. Login untuk masuk ke aplikasi nya 
+    email : dimas
+    password : 123
+
+3. Tab order makanan untuk Mengorder makanan nya tinggal pilih alamat, makanan, dan minumanya
+
+4. Total didapat dari Ongkir + Harga Makanan + Harga Minuman
+
+5. Untuk menghapus makanan klik row yang di tabel lalu klik tombol hapus
